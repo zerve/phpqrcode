@@ -1,0 +1,8 @@
+{
+    "name": "zerve/phpqrcode",
+    "type": "library",
+    "license": "LGPL-3.0",
+    "autoload": {
+        "classmap": ["/"]
+    }
+}
